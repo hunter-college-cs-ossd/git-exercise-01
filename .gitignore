@@ -15,4 +15,5 @@ package.json
 
 # Executables
 *.out
-bin/
+bin/*
+!bin/.gitkeep
