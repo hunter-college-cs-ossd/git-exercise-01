@@ -1,0 +1,18 @@
+# Miscellaneous files to exclude 
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+
+# Compiled Object files
+*.o
+
+# Executables
+*.out
+bin/

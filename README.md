@@ -61,12 +61,17 @@ These are the steps that you must perform for this assignment.
 3.  Add an `upstream` remote to this repository using the `git remote add ...` 
 command.
 
-4.  Add a new file in the `developers/` directory. The filename should be named
+4.  Add a new file in the `sources/` directory. The filename should be named
 `YOUR_GITHUB_USERNAME.cpp` where you must replace `YOUR_GITHUB_USERNAME` 
 by your actual GitHub username. This file should be a succinct C++
-program that will output the single line `Hello world from YOUR_GITHUB_USERNAME`,
-where `YOUR_GITHUB_USERNAME` is replaced by your actual GitHub username. Your 
-program should be a proper program, with proper documentation, and should be as 
+program that will output two sentences. The first should be
+
+    * `Hello world from YOUR_GITHUB_USERNAME`,
+where `YOUR_GITHUB_USERNAME` is replaced by your actual GitHub username. 
+    * The second should be a "fun fact" about yourself that you are willing to
+share, not only with us, but with the world.
+
+    Your program should be a proper program, with proper documentation, and should be as 
 short as you can make it.
 
 5. Compile and test your program to make sure it runs.

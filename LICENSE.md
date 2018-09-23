@@ -1,6 +1,11 @@
 MIT License
 
+Copyright (c) 2018 Stewart Weiss
+The above author acknowledges that this work is a derivative of a project developed
+by the students working under Dr. Wesley Turner at the Rensselaer Center for Open Source.
+
 Copyright (c) 2018 Rensselaer Center for Open Source
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +24,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
