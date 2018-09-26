@@ -1,7 +1,15 @@
-/*
-Author: Anupam Das
-Assignment week 4
-*/
+/*******************************************************************************
+  Title          : anupamdas104.cpp
+  Author         : Anupam Das
+  Created on     : September 26, 2018
+  Description    : Hello world and a fun fact printed to standard output
+  Purpose        : To collaborate with CS-OSSD group
+  Usage          : anupamdas104
+                   
+  Build with     : g++ -Wall -g -o anupamdas104 anupamdas104.cpp
+  Modifications  : 
+ 
+*******************************************************************************/
 
 #include <iostream>
 
