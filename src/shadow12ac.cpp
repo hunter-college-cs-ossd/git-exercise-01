@@ -1,3 +1,5 @@
+//Amal Mittal
+//09/24/18
 #include <iostream>
 
 using namespace std;
