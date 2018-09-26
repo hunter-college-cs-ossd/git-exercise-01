@@ -1,4 +1,6 @@
+//Made by audiencia-cereal
 //A short program for OSSD-Hunter-College
+//Made on 09/26/2018
 
 //include standard library iostream
 #include <iostream>
